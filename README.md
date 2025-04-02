@@ -1,1 +1,1 @@
-# buy-sonofit.github.io
+# https://buy-sonofit.vercel.app
