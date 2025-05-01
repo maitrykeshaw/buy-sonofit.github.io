@@ -1,1 +1,1 @@
-# https://buy-sonofit.vercel.app
+# https://buy-sonofit.vercel.app/
